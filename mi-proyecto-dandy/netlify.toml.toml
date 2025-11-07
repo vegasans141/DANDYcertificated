@@ -1,0 +1,6 @@
+[build]
+  # Esta línea indica a Netlify que debe construir desde la raíz de tu repositorio.
+  base = "."
+  # Esta línea especifica qué directorio contiene los archivos listos para servir. 
+  # Como solo tienes un archivo HTML, el directorio de publicación es también la raíz.
+  publish = "."
